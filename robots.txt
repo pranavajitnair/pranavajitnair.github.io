@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pranavajitnair.github.io/sitemap.xml
