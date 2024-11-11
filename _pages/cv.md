@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /Pranav_CV.pdf
+permalink: assets/pdf/Pranav_CV.pdf
 title: cv
 nav: true
 nav_order: 5
